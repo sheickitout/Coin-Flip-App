@@ -101,7 +101,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 8868751225B9ECD800BBD600 /* Build configuration list for PBXProject "desgin" */;
+			buildConfigurationList = 8868751225B9ECD800BBD600 /* Build configuration list for PBXProject "CoinFlipApp" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -320,7 +320,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		8868751225B9ECD800BBD600 /* Build configuration list for PBXProject "desgin" */ = {
+		8868751225B9ECD800BBD600 /* Build configuration list for PBXProject "CoinFlipApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8868752925B9ECD900BBD600 /* Debug */,
